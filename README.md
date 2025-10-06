@@ -13,3 +13,5 @@ It also gives you the option to **save your meal records** with a timestamp into
   - ✅ Average calories per meal
 - Checks if your **calories are within or exceeding the limit**.
 - Option to save data in `data.txt` with a timestamp like:
+
+Kindly open **master branch** for the code.
