@@ -1,2 +1,8 @@
 meal:[('chicken', 1231), ('paneer makhani', 1000)], total:2231, average: 1115
 11H-46M-25S
+
+meal:[('fish curry', 870), ('roti', 200), ('salad', 150)], total:1220, average: 406  
+08H-12M-59S
+
+meal:[('biryani', 1350), ('raita', 300), ('gulab jamun', 400), ('soft drink', 250)], total:2300, average: 575  
+14H-33M-11S
