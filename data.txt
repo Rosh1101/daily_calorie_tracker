@@ -1,0 +1,2 @@
+meal:[('chicken', 1231), ('paneer makhani', 1000)], total:2231, average: 1115
+11H-46M-25S
